@@ -1,3 +1,4 @@
+//使用ChatGPT完成
 const crypto = require('crypto');
 
 // 定义你的昵称
